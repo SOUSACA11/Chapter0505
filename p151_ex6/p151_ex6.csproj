@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34A71C29-FEC4-4DB8-AA12-1E096EA32BD8}</ProjectGuid>
+    <ProjectGuid>{955662DE-45FD-4FD9-8635-205AEBE90077}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>p151_ex5</RootNamespace>
-    <AssemblyName>p151_ex5</AssemblyName>
+    <RootNamespace>p151_ex6</RootNamespace>
+    <AssemblyName>p151_ex6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MiMi.cs" />
+    <Compile Include="TiTi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
