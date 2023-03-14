@@ -49,3 +49,4 @@ namespace p151_ex6
         }
     }
 }
+// P151_ex6_2 / TiTi2 / Switch 버전

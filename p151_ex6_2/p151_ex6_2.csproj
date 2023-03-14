@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FED400BE-B083-431B-879B-7091C53C8B9F}</ProjectGuid>
+    <ProjectGuid>{AFCCAA4C-6EFC-4C93-9C58-0EE05D986F22}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>p151_ex4</RootNamespace>
-    <AssemblyName>p151_ex4</AssemblyName>
+    <RootNamespace>p151_ex6_2</RootNamespace>
+    <AssemblyName>p151_ex6_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NiNi.cs" />
+    <Compile Include="TiTi2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

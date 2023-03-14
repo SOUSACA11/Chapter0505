@@ -1,7 +1,7 @@
 ﻿using System;
 namespace p151_ex2_2
 {
-    class Program
+    class NINi
     {
         static void Main(string[] args)
         {

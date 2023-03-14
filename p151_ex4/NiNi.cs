@@ -2,7 +2,7 @@
 
 namespace p151_ex4
 {
-    class Program
+    class NiNi
     {
         static void Main(string[] args)
         {

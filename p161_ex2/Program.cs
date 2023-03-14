@@ -48,10 +48,11 @@ namespace p161_ex2
                     value = first / second;
                     break;
 
+                case "%":
+                    value = first % second;
+                    break;
 
-
-
-                    Console.WriteLine($"입력하신 {first}{inputtt}{second}의 결과값은 {value} 입니다.")
+                    Console.WriteLine($"입력하신 {first}{inputtt}{second}의 결과값은 {value} 입니다.");
             }
         }
     }
