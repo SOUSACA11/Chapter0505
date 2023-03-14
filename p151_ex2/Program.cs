@@ -37,10 +37,27 @@ namespace p151_ex2
     }
 }
 
+
+// string input = Console.ReadLine();
+// int number = int.Parse(input);
+
 // string grade;
 // if (number >= 90)
 // {
-//    grade = "90";
+//    grade = "A";
 //  }
+// else if (number >= 80)
+// {
+//    grade = "B";
+// }
+// else if (number >= 70)
+// {
+//    grade = "C";
+// }
+// else
+// {
+//    grade = "F";
+// }
 
-// Console.WriteLine
+// Console.WriteLine($"입력하신 점수 {number}는(은) " +
+//    $"{grade} 학점 입니다.");
