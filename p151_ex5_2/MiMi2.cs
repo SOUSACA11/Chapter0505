@@ -18,16 +18,17 @@ namespace p151_ex5_2
             string input3 = Console.ReadLine();
             int C = int.Parse(input3);
 
-            int max, min;
+            int max;
+            int min;
+
+         // switch (A - B)
+         // {
+         //   case 1: case 0: min = B;
+         //       break;
+         //  default: min = A;
+         // }
 
             switch (A - B)
-            {
-                case 1: case 0: min = B;
-                    break;
-                default: min = A;
-            }
-
-            switch ((A - B) > 0)
             {
                 case 1:
                     max = A;
@@ -39,7 +40,7 @@ namespace p151_ex5_2
                     break;
             }
 
-            switch ((min-C)>0)
+            switch (min-C)
             {
                 case 1:
                     min = C;
@@ -49,7 +50,7 @@ namespace p151_ex5_2
                     break;
             }
 
-            switch ((max - C) > 0)
+            switch (max - C)
             {
                 case 0:
                     max = C;
