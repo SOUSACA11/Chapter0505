@@ -15,17 +15,12 @@ namespace Break_2
 
                 if (answer == "아니오")
                 {
-                  
+                    a = false;
                     }
-                else
-                {
-
-                }
-
-
-
+               
                 }
             }
         }
     }
-}
+
+//while문은 조건이 false이거나 while문 실행
