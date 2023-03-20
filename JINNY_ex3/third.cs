@@ -7,6 +7,15 @@ namespace JINNY_ex3
         static void Main(string[] args)
         {
             // 이쁜 정방향, 역방향 별찍기 1)while문 2)do문 쓰기
+
+            int star = 0;
+            while (star<5)
+            {
+                Console.Write("*");
+                star++;
+            }
+
+            }
         }
     }
 }
