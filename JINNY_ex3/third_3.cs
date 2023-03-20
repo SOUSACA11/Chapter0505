@@ -2,26 +2,27 @@
 
 namespace JINNY_ex3
 {
-    class third
+    class third_3
     {
         static void Main(string[] args)
         {
-            // 이쁜 정방향 별찍기 while문 
+            // 이쁜 정방향 별찍기 do while문 
 
             int star = 0;
-            while (star < 5)
+
+            do
             {
                 int moon = 0;
+
                 while (moon <= star)
                 {
                     Console.Write("*");
                     moon++;
                 }
                 Console.WriteLine();
-                ++star;
+                star++;
             }
-
+            while (star <5);
         }
     }
 }
-
