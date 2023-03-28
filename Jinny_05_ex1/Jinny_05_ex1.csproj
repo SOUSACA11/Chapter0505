@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AA42F68-09E3-4D2A-9702-D2F40BB64836}</ProjectGuid>
+    <ProjectGuid>{9937D09F-84F4-4449-B3D3-FC2AF60F58C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_ConsoleApp1</RootNamespace>
-    <AssemblyName>_ConsoleApp1</AssemblyName>
+    <RootNamespace>Jinny_05_ex1</RootNamespace>
+    <AssemblyName>Jinny_05_ex1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
